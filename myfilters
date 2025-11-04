@@ -39,6 +39,21 @@ typhoon.yahoo.co.jp##.snsbtnWrapper
 typhoon.yahoo.co.jp###bosaiapp
 typhoon.yahoo.co.jp##.promoApp
 
+! Gamewith
+img.gamewith.jp/service/hd/images/$image
+
+! https://qiita.com
+||cdn.qiita.com/assets/public/community-sponsors/$image
+||cdn.qiita.com/assets/public/qiita_services/banner$image
+||qiita-official-contents.imgix.net/$image
+||cdn.qiita.com/assets/public/*$image
+
+
+
+
+
+
+
 
 
 
