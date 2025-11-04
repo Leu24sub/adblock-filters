@@ -2,43 +2,35 @@
 news.livedoor.com##div.ranking-block:nth-of-type(7)
 news.livedoor.com##div.ranking-block:nth-of-type(9)
 news.livedoor.com###gdpr-banner
+news.livedoor.com##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > .content-slide > .article-list > .article-list-youtube-top.article-list-headline
+news.livedoor.com##.swiper-slide-active.swiper-slide > .content-slide > .article-list > .article-list-youtube-top.article-list-headline > .article-list-youtube-anker
+news.livedoor.com##.news-image-ranking-list
+news.livedoor.com##.news-ranking-title
+news.livedoor.com##.article-height18.article-frame.article-body > .pt.sns-visual.sns-non-visual.article-social
+news.livedoor.com##.recommend-block
+news.livedoor.com##.news-ranking-list
 
 ! 2025/09/20 https://qiita.com
 qiita.com##.coins-optin-dialog
 
-! 2025/09/20 https://tenki.jp
+! https://tenki.jp
 ||tenki.jp/*banner*$image
 tenki.jp##.sns-account-list-box
 tenki.jp##.app-banner-wrap
 tenki.jp##section.section-wrap:nth-of-type(4)
 tenki.jp##.lite-sns-box-buttons2
 tenki.jp##.lead-to-app-wrapper
-
-! 2025/09/20 https://news.livedoor.com
-news.livedoor.com##.article-height18.article-frame.article-body > .pt.sns-visual.sns-non-visual.article-social
-news.livedoor.com##.recommend-block
-news.livedoor.com##.news-ranking-list
-
-! 2025/09/22 https://news.livedoor.com
-news.livedoor.com##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > .content-slide > .article-list > .article-list-youtube-top.article-list-headline
-news.livedoor.com##.swiper-slide-active.swiper-slide > .content-slide > .article-list > .article-list-youtube-top.article-list-headline > .article-list-youtube-anker
-news.livedoor.com##.news-image-ranking-list
-news.livedoor.com##.news-ranking-title
+tenki.jp###sp-forecast-pager-anchor-footer-navi
+tenki.jp##.section-wrap > .section-wrap
+tenki.jp###line-add-friend-sp3
 
 ! 2025/09/22 https://shonenjumpplus.com
 shonenjumpplus.com##.smartapp-android
 shonenjumpplus.com##.footer-container
 
-! 2025/09/22 https://tenki.jp
-tenki.jp###sp-forecast-pager-anchor-footer-navi
-tenki.jp##.section-wrap > .section-wrap
-
 ! 2025/11/04 https://transit.yahoo.co.jp
 transit.yahoo.co.jp###prmbnr
 transit.yahoo.co.jp###stanby
-
-! 2025/11/04 https://tenki.jp
-tenki.jp###line-add-friend-sp3
 
 ! 2025/11/04 https://typhoon.yahoo.co.jp
 typhoon.yahoo.co.jp##.bnr_kyoshin
